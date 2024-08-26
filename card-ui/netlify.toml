@@ -1,5 +1,5 @@
 [build]
-    base = "my-app"
+    base = "card-ui/my-app"
     command = "ng serve"
     publish = "dist/browser"
 
